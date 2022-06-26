@@ -64,20 +64,6 @@ video {
     text-shadow: 2px 2px 4px rgb(0, 0, 0);
     z-index: -900;
 }
-.texto3{
-    margin-top: 30px;
-    text-align: center;
-    font-size: 60px;
-
-}
-.texto3 {
-    font-size: 30px;
-    color: #ffffff;
-    font-family: 'Lobster', cursive;
-    text-shadow: 2px 2px 4px rgb(0, 0, 0);
-    z-index: -900;
-}
-
 .img1{
 
     justify-content: center;
@@ -88,7 +74,7 @@ video {
     
 }
 .button{
-    margin-top: 30px;
+    margin-top: 10px;
     size: 200px;
     text-align: center;
 
@@ -96,4 +82,17 @@ video {
 
 .linkam{
     padding: 0;
+}
+.texto3{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 60px;
+
+}
+.texto3 {
+    font-size: 40px;
+    color: #ffffff;
+    font-family: 'Lobster', cursive;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+    z-index: -900;
 }
